@@ -1,9 +1,8 @@
 # 🧪 Laboratorio N.° 14 - Optimización y SEO
 
-## 📚 Curso: Desarrollo de Aplicaciones Web Avanzado  
-**Docente:** Renato Usnayo Cáceres  
-**Estudiante:** [Tu nombre aquí]  
-**Fecha de entrega:** [Fecha aquí]
+## 📚 Curso: Desarrollo de Aplicaciones Web Avanzado   
+**Estudiante:** Rojas
+**Fecha de entrega:**  hoy lunes 16 de junio
 
 ---
 
